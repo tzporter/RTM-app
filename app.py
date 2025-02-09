@@ -148,4 +148,4 @@ update_plots()
 ui.button('Run Simulation', on_click=update_plots).props('icon=refresh')
 
 # Run the app
-ui.run(title="RTM Demo", dark=True, on_air="Z5P1db5YmNy4UzRF")
+ui.run(title="RTM Demo", dark=True)
